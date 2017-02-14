@@ -7,7 +7,7 @@ Promise = require('bluebird')
 
 helper = new Helper('../src/howdoi.coffee')
 
-describe 'google-tts', ->
+describe 'howdoi', ->
   beforeEach ->
     @room = helper.createRoom()
 
