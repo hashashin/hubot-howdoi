@@ -3,7 +3,7 @@
   "description": "Based on hubot-scripts/howdoi",
   "version": "1.0.1",
   "author": "hashashin <gentoo.power@gmail.com>",
-  "license": "CC0",
+  "license": "MIT",
   "keywords": [
     "hubot",
     "hubot-scripts"
