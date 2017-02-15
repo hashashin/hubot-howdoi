@@ -1,7 +1,7 @@
 # Description:
 #   How Do I ___? Because Hubot knows more than you.
 #   Based on https://github.com/github/hubot-scripts/blob/master/src/scripts/howdoi.coffee
-#   wich it's based on howdoi (https://github.com/gleitz/howdoi)
+#   which it's based on howdoi (https://github.com/gleitz/howdoi)
 #
 # Dependencies:
 #   gargsms/node-scraper
